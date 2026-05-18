@@ -1,0 +1,69 @@
+.xsession-errors;F;[W, R];52515
+snap;D;[X, W, R];4096
+.httrack.ini;F;[X, W, R];8
+IdeaProjects;D;[X, W, R];4096
+.profile;F;[X, W, R];807
+.mozilla;D;[X, W, R];4096
+.gnupg;D;[X, W, R];4096
+Vídeos;D;[X, W, R];4096
+.themes;D;[X, W, R];4096
+AndroidStudioProjects;D;[X, W, R];4096
+pt;D;[X, W, R];4096
+.packettracer;F;[X, W, R];56
+.var;D;[X, W, R];4096
+Música;D;[X, W, R];4096
+VirtualBox VMs;D;[X, W, R];4096
+.mongodb;D;[X, W, R];4096
+.gradle;D;[X, W, R];4096
+.gksu.lock;F;[X, W, R];0
+.m2;D;[X, W, R];4096
+.icons;D;[X, W, R];4096
+.bash_aliases;F;[X, W, R];186
+.Xauthority;F;[W, R];213
+.bash_logout.distrib;F;[X, W, R];220
+.bash_logout;F;[X, W, R];232
+.conda;D;[X, W, R];4096
+.xsession-errors.old;F;[W, R];14180
+.cache;D;[X, W, R];4096
+.bashrc.distrib;F;[X, W, R];3771
+JMR;D;[X, W, R];4096
+.qdvdauthor;D;[X, W, R];4096
+.gconf;D;[X, W, R];4096
+.cellwriter;D;[X, W, R];4096
+java_error_in_studio_.hprof;F;[W, R];550836972
+Imágenes;D;[X, W, R];4096
+Escritorio;D;[X, W, R];4096
+.android;D;[X, W, R];4096
+.pki;D;[X, W, R];4096
+.dvdstyler;F;[X, W, R];57
+.dmrc;F;[X, W, R];23
+OpenBoard;D;[X, W, R];4096
+.vmware;D;[X, W, R];4096
+.emulator_console_auth_token;F;[W, R];16
+.config;D;[X, W, R];4096
+.sudo_as_admin_successful;F;[X, W, R];0
+.audacity-data;D;[X, W, R];4096
+.bashrc;F;[X, W, R];2522
+Descargas;D;[X, W, R];4096
+.vagrant.d;D;[X, W, R];4096
+.kde;D;[X, W, R];4096
+.qt;D;[X, W, R];4096
+.dotnet;D;[X, W, R];4096
+.Xdefaults;F;[X, W, R];1601
+.bash_history;F;[X, W, R];2549
+.lesshst;F;[W, R];20
+.java;D;[X, W, R];4096
+.ssh;D;[X, W, R];4096
+.bash_profile;F;[X, W, R];414
+.xscreensaver;F;[X, W, R];14
+.zshrc;F;[W, R];197
+.filezilla;D;[X, W, R];4096
+Plantillas;D;[X, W, R];4096
+.vnc;D;[X, W, R];4096
+Android;D;[X, W, R];4096
+Público;D;[X, W, R];4096
+.ipython;D;[X, W, R];4096
+.vscode;D;[X, W, R];4096
+.local;D;[X, W, R];4096
+.swt;D;[X, W, R];4096
+Documentos;D;[X, W, R];4096

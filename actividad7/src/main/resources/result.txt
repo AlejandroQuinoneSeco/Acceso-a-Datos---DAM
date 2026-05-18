@@ -1,0 +1,50 @@
+.java;D;[X, R, W];4096
+.bash_history;F;[R, W];204
+.dvdstyler;F;[X, R, W];57
+.filezilla;D;[X, R, W];4096
+.xsession-errors.old;F;[R, W];467424
+.xsession-errors;F;[R, W];358621
+.audacity-data;D;[X, R, W];4096
+.bashrc.distrib;F;[X, R, W];3771
+.mozilla;D;[X, R, W];4096
+.dmrc;F;[R, W];23
+.local;D;[X, R, W];4096
+Plantillas;D;[X, R, W];4096
+.kde;D;[X, R, W];4096
+.httrack.ini;F;[X, R, W];8
+Desarrollo Interface;D;[X, R, W];4096
+.themes;D;[X, R, W];4096
+.vmware;D;[X, R, W];4096
+.bash_aliases;F;[X, R, W];186
+prueba.txt;F;[R, W];20
+IdeaProjects;D;[X, R, W];4096
+.qt;D;[X, R, W];4096
+.Xauthority;F;[R, W];165
+Descargas;D;[X, R, W];4096
+.bash_logout.distrib;F;[X, R, W];220
+.bash_logout;F;[X, R, W];233
+.xscreensaver;F;[X, R, W];14
+Vídeos;D;[X, R, W];4096
+Escritorio;D;[X, R, W];4096
+.m2;D;[X, R, W];4096
+snap;D;[X, R, W];4096
+.icons;D;[X, R, W];4096
+.jdks;D;[X, R, W];4096
+.tcosmonitor.conf;F;[R, W];908
+.Xdefaults;F;[X, R, W];1601
+prueba;D;[X, R, W];4096
+.bash_profile;F;[X, R, W];414
+.config;D;[X, R, W];4096
+.gnupg;D;[X, R, W];4096
+.cache;D;[X, R, W];4096
+Documentos;D;[X, R, W];4096
+.packettracer;F;[R, W];60
+.qdvdauthor;D;[X, R, W];4096
+Música;D;[X, R, W];4096
+pt;D;[X, R, W];4096
+Imágenes;D;[X, R, W];4096
+.bashrc;F;[X, R, W];2324
+.pki;D;[X, R, W];4096
+.profile;F;[X, R, W];807
+Público;D;[X, R, W];4096
+.cellwriter;D;[X, R, W];4096
