@@ -1,0 +1,8 @@
+generated\Nombre.class
+generated\ObjectFactory.class
+org\educa\Main.class
+org\educa\factory\ClienteFactory.class
+generated\Clientes.class
+generated\Direccion.class
+generated\Cliente.class
+org\educa\service\ClienteService.class
