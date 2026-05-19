@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clientes>
+    <cliente>
+        <nombre dni="12345678Z">Juan Martínez Izquierdo</nombre>
+        <email>jmi@mail.com</email>
+        <direccion>
+            <calle>C/ Jilguero 23</calle>
+            <ciudad>Sevilla</ciudad>
+            <pais>España</pais>
+            <cp>41005</cp>
+        </direccion>
+    </cliente>
+    <cliente>
+        <nombre dni="87654321X">Rosa Álvarez Pérez</nombre>
+        <email>rap@mail.com</email>
+        <direccion>
+            <calle>Avda Periquito S/N</calle>
+            <ciudad>Madrid</ciudad>
+            <pais>España</pais>
+            <cp>28900</cp>
+        </direccion>
+    </cliente>
+    <cliente>
+        <nombre dni="88888888T">Pedro Quintana Díaz</nombre>
+        <email>pqd@mail.com</email>
+        <direccion>
+            <calle>C/ Buho 33</calle>
+            <ciudad>Asturias</ciudad>
+            <pais>España</pais>
+            <cp>15150</cp>
+        </direccion>
+    </cliente>
+    <cliente>
+        <nombre dni="33333333R">Xisco Serrano Puig</nombre>
+        <email>xsp@mail.com</email>
+        <direccion>
+            <calle>C/Tramontana 32</calle>
+            <ciudad>Palma de Mallorca</ciudad>
+            <pais>España</pais>
+            <cp>08080</cp>
+        </direccion>
+    </cliente>
+</clientes>
