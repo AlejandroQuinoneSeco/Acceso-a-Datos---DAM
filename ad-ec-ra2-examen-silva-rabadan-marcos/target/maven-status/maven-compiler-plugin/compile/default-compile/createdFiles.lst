@@ -1,0 +1,6 @@
+org/educa/entity/VehiculoEntity.class
+org/educa/service/VehiculoService.class
+org/educa/dao/VehiculoImpDAO.class
+org/educa/pool/ConnectionPool.class
+org/educa/Main.class
+org/educa/dao/VehiculoDAO.class
