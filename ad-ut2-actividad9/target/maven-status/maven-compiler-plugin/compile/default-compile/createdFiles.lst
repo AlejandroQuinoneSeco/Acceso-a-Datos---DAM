@@ -1,0 +1,10 @@
+org/educa/ut2/dao/DireccionDAOImpl.class
+org/educa/ut2/Main.class
+org/educa/ut2/pool/ConnectionPool.class
+org/educa/ut2/service/DireccionService.class
+org/educa/ut2/dao/ClienteDAOImpl.class
+org/educa/ut2/entity/DireccionEntity.class
+org/educa/ut2/service/ClienteService.class
+org/educa/ut2/dao/ClienteDAO.class
+org/educa/ut2/entity/ClienteEntity.class
+org/educa/ut2/dao/DireccionDAO.class
