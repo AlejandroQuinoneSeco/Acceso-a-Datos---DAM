@@ -1,0 +1,6 @@
+org\educa\Console.class
+org\educa\entity\AlquilerEntity.class
+org\educa\Main.class
+org\educa\entity\SeguroEntity.class
+org\educa\dao\hibernate\HibernateConfiguration.class
+org\educa\service\SeguroService.class
