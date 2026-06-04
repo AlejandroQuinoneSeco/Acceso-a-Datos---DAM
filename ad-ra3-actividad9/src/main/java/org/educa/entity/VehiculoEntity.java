@@ -1,0 +1,47 @@
+package org.educa.entity;
+
+import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.io.Serial;
+import java.io.Serializable;
+
+@Entity
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Table(name = "vehiculo")
+public class VehiculoEntity implements Serializable {
+    @Serial
+    private static final long serialVersionUID = 1L;
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id_vehiculo")
+    private Integer idVehiculo;
+    @Column(name = "matricula")
+    private String matricula;
+    @Column(name = "bastidor")
+    private String bastidor;
+    @Column(name = "marca")
+    private String marca;
+    @Column(name = "modelo")
+    private String modelo;
+    @Column(name = "color")
+    private String color;
+    @Column(name = "anio")
+    private Integer anio;
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "id_categoria")
+    private CategoriaEntity categoria;
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "id_sucursal")
+    private SucursalEntity sucursal;
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "id_comb")
+    private CombustibleEntity combustible;
+}
