@@ -1,5 +1,0 @@
-Nombre,dni,email,calle,ciudad,pais,cp
-Juan Martínez Izquierdo,12345678Z,jmi@mail.com,C/ Jilguero 23,Sevilla,España,41005
-Rosa Álvarez Pérez,87654321X,rap@mail.com,Avda Periquito S/N,Madrid,España,28900
-Pedro Quintana Díaz,88888888T,pqd@mail.com,C/ Buho 33,Asturias,España,15150
-Xisco Serrano Puig,33333333R,xsp@mail.com,C/Tramontana 32,Palma de Mallorca,España,08080
