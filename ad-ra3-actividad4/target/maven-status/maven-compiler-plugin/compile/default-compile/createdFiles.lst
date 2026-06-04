@@ -1,0 +1,4 @@
+org/educa/configuration/HibernateConfiguration.class
+org/educa/entity/ClienteEntity.class
+org/educa/Main.class
+org/educa/entity/DireccionEntity.class
