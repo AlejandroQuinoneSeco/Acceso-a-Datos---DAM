@@ -1,0 +1,8 @@
+org\educa\entity\Generos.class
+org\educa\Console.class
+org\educa\Main.class
+org\educa\entity\Estudios.class
+org\educa\entity\VideojuegosWithRelations.class
+org\educa\entity\Videojuegos.class
+org\educa\service\VideojuegosService.class
+org\educa\settings\DatabaseSettings.class
