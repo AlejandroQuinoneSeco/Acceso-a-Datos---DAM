@@ -1,0 +1,8 @@
+/home/alumnotd/Documentos/ad-ee-ra3-examen-quinones-seco-alejandro/src/main/java/org/educa/Console.java
+/home/alumnotd/Documentos/ad-ee-ra3-examen-quinones-seco-alejandro/src/main/java/org/educa/Main.java
+/home/alumnotd/Documentos/ad-ee-ra3-examen-quinones-seco-alejandro/src/main/java/org/educa/dao/hibernate/CombustibleDAO.java
+/home/alumnotd/Documentos/ad-ee-ra3-examen-quinones-seco-alejandro/src/main/java/org/educa/dao/hibernate/CombustibleDAOImpl.java
+/home/alumnotd/Documentos/ad-ee-ra3-examen-quinones-seco-alejandro/src/main/java/org/educa/dao/hibernate/HibernateConfiguration.java
+/home/alumnotd/Documentos/ad-ee-ra3-examen-quinones-seco-alejandro/src/main/java/org/educa/entity/CombustibleEntity.java
+/home/alumnotd/Documentos/ad-ee-ra3-examen-quinones-seco-alejandro/src/main/java/org/educa/entity/VehiculoEntity.java
+/home/alumnotd/Documentos/ad-ee-ra3-examen-quinones-seco-alejandro/src/main/java/org/educa/service/CombustibleService.java
