@@ -1,0 +1,14 @@
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/Console.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/Main.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/dao/ArtistaDAO.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/dao/ArtistaDAOImpl.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/dao/CancionesDAO.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/dao/CancionesDAOImpl.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/dao/GenerosDAO.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/dao/GenerosDAOImpl.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/entity/Artista.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/entity/Canciones.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/entity/CancionesWithRelations.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/entity/Generos.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/service/CancionesService.java
+/home/alumnotd/Documentos/ad-ee-ra5-examen-quinones-seco-alejandro/src/main/java/org/educa/settings/DatabaseSettings.java
